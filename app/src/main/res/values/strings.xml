@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">rexlix</string>
+    <string name="offline_title">اتصال به اینترنت برقرار نیست</string>
+    <string name="offline_desc">لطفاً اتصال خود را بررسی کنید و دوباره تلاش کنید.</string>
+    <string name="retry">تلاش مجدد</string>
+    <string name="download_started">دانلود شروع شد</string>
+    <string name="cannot_open">برنامه‌ای برای باز کردن این لینک پیدا نشد</string>
+</resources>
